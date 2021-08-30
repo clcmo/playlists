@@ -27,3 +27,8 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# Pastas de desenvolvimento e tutoriais
+docs/
+test/
+README.md
